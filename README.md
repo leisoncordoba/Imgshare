@@ -11,9 +11,9 @@ imgShare is a web application to share images, comments, and more.
 
 **Installation**
 
-cd nodejs-imagshare
-npm install
-npm run build
-npm start
-Installation with docker-compose (Recommended)
-docker-compose up
+- cd nodejs-imagshare
+- npm install
+- npm run build
+- npm start
+- Installation with docker-compose (Recommended)
+- docker-compose up
